@@ -17,7 +17,7 @@ metrocard [-o|--old] [-f|--fare <fare>] [-b|--bonus <bonus>]
           [-h|--help]
 ```
 
-Note: Effective March 22, 2015, the base fare will be $2.75 (up $0.25 from the previous rate of $2.50). This program uses the new rate by default. To harken back to simpler, cheaper times and use to $2.50 fare:
+Note: Effective March 22, 2015, the base fare will be $2.75 (up $0.25 from the previous rate of $2.50). This program uses the new rate by default. To harken back to simpler, cheaper times and use the $2.50 fare and %5 bonus:
 
 ```bash
 metrocard --old
