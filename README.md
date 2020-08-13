@@ -1,14 +1,14 @@
-#metrocard
+# metrocard
 
 Calculates which custom NYC MetroCard amounts yield the lowest remainders
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```bash
 metrocard [-o|--old] [-f|--fare <fare>] [-b|--bonus <bonus>]
@@ -36,7 +36,7 @@ metrocard --old
 
 Note: All inputs should be floating point numbers with no dollar signs
 
-##Example
+## Example
 
 New fare (default):
 
@@ -65,6 +65,6 @@ Old fare:
       8 |  $19.05 |  $20.00 | $ 0.00
 ```
 
-##Acknowledgements
+## Acknowledgements
 
 Inspired by [this post](http://iquantny.tumblr.com/post/96700509489/how-memorizing-19-05-can-help-you-outsmart-the) on I Quant NY.
